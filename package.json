@@ -1,5 +1,5 @@
 {
-  "name": "findify-fluent-logger",
+  "name": "@findify/findify-fluent-logger",
   "version": "1.0.0",
   "main": "./lib/index.js",
   "scripts": {
